@@ -288,6 +288,9 @@
     /* .ks-header{
         display: none;
     } */
+    .ks-header p {
+        font-size: 2.5vw;
+    }
     .ks-navbar ul{
         flex-direction: column;
     }
@@ -340,6 +343,9 @@
     }
     .ks-w-sm-100{
         width: 90% !important;
+    }
+    .ks-facts-fig h1 {
+        font-size: 5vw;
     }
     .ks-second-section .ks-content p{
         text-align: justify;
