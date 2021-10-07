@@ -202,14 +202,14 @@
 }
 .ks-icon span{
     text-align: center;
-    font-size: 50px;
+    font-size: 3.5vw;
     color: #fff;
     font-weight: 600;
     margin-top: 20px;
  }
 .ks-icon p{
     text-align: center;
-    font-size: 18px;
+    font-size: 1.8vw;
     color: #fff;
     font-weight: 500;
     margin-top: 10px;
@@ -327,5 +327,29 @@
         color: #fff;
         padding: 1.2vw 5.5vw;
         font-size: 3.2vw;
+    }
+    .ks-second-section h1 {
+        font-size: 1.2rem;
+    }
+    .ks-flex-sm-column{
+        flex-direction: column !important;
+    }
+    .ks-w-sm-100{
+        width: 90% !important;
+    }
+    .ks-second-section .ks-content p{
+        text-align: justify;
+    }
+    .ks-product-range h1{
+        font-size: 5vw;
+    }
+    .ks-quality h1{
+        font-size: 5vw;
+    }
+    .ks-footer .ks-w-100 img{
+        top: -9%;
+    }
+    .ks-social-links{
+        padding-right: 0;
     }
 }
