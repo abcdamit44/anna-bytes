@@ -285,9 +285,9 @@
 }
 
 @media(max-width:767px){
-    .ks-header{
+    /* .ks-header{
         display: none;
-    }
+    } */
     .ks-navbar ul{
         flex-direction: column;
     }
@@ -331,6 +331,10 @@
     .ks-second-section h1 {
         font-size: 1.2rem;
     }
+    .ks-icon p {
+        font-size: 2.3vw;
+        height: 10px;
+    }
     .ks-flex-sm-column{
         flex-direction: column !important;
     }
@@ -342,6 +346,13 @@
     }
     .ks-product-range h1{
         font-size: 5vw;
+    }
+    .ks-product-range .ks-img {
+        padding: 5px;
+    }
+    .ks-product-range p {
+        text-align: center;
+        font-size: 2.5vw;
     }
     .ks-quality h1{
         font-size: 5vw;
