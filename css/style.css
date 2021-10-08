@@ -377,3 +377,10 @@
         justify-content: center;
     }
 }
+
+@media(min-width:1500px){
+
+    .ks-container{
+        width: 1000px;
+    }
+}
